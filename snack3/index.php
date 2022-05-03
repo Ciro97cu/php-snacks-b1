@@ -11,4 +11,4 @@ while (count($arrayNumbers) < 15) {
 }
 ?>
 
-<h1><?php echo implode(" ~ ", $arrayNumbers) ?></h1>
+<h1><?php echo implode("</br>", $arrayNumbers) ?></h1>
